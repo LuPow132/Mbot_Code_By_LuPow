@@ -46,3 +46,5 @@ RY = lift arm up or down
 That's it 
 I wanna cry ;-;
 cya
+
+![alt text](https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fraw.githubusercontent.com%2Frakky33%2FMbot_Code_By_LuPow%2Fmain%2FMbot_Mbot)
