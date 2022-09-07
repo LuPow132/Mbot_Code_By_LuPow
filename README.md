@@ -47,4 +47,6 @@ That's it
 I wanna cry ;-;
 cya
 
-![alt text](https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fraw.githubusercontent.com%2Frakky33%2FMbot_Code_By_LuPow%2Fmain%2FMbot_Mbot)
+
+##flowchart
+![alt text](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Mbot_Mbot#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Frakky33%2FMbot_Code_By_LuPow%2Fmain%2FMbot_Mbot)
